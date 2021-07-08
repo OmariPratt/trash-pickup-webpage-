@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+{
+  box-sizing: border box;
+ }
+
+  body{
+    background-color: aliceblue
+    font-family 'open sans', sans serif
+    dissplay flex
+    align items center
+    justify-content center 
+    min-height 100vh
+    margin 0 
+  }
+
+ container{
+   background-attachment: #f9fafb;
+ }
